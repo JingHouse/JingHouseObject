@@ -1,2 +1,2 @@
-# JingHouse.github.io
+# JingHouseObject
 This is Jing House
