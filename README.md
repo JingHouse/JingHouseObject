@@ -1,2 +1,2 @@
-# JingHouseObject
-JingHouse.github.io store
+# JingHouse.github.io
+This is Jing House
